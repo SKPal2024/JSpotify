@@ -1,0 +1,33 @@
+# Maven
+target/
+
+# Compiled Java files
+*.class
+
+# IDE metadata
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs and local environment files
+*.log
+.env
+.env.*
+!.env.example
+
+# Local project metadata
+cp.txt
+.github/modernize/
+
+# Local database files and dumps
+*.sqlite
+*.sqlite3
+*.db
+*.dump
